@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8969C91F0C24BeE39cd730b851fDB59CE90D39b6",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8969c91f0c24bee39cd730b851fdb59ce90d39b6",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MEDYC",
+  "SYMBOL": "MEDYC",
+  "MAX_SUPPLY": 13,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/med-v3",
+  "SHOW_BACKGROUND": true
+}
